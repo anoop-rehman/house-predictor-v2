@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewHacks</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="radius_array">
+        <item>500m</item>
+        <item>1000m</item>
+        <item>1500m</item>
+    </string-array>
+</resources>
