@@ -1,21 +1,5 @@
-Treehard
-treehqrd
-😭losing it
-team diegression
 
-mondayleftmebroken, — Yesterday at 2:03 PM
-W
-hugeturnip — Yesterday at 2:03 PM
-HI TEAM
-Treehard
- changed the channel name: 
-THE WINNERS
- — Yesterday at 2:03 PM
-Treehard
- changed the channel name: 
-WINNERS POV
- — Yesterday at 2:03 PM
-Treehard — Yesterday at 2:13 PM
+
 https://github.com/noelogbuagu/Toronto-House-Price-Prediction?source=post_page-----948d0cf72f58--------------------------------
 GitHub
 GitHub - noelogbuagu/Toronto-House-Price-Prediction
